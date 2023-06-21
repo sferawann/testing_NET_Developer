@@ -1,0 +1,16 @@
+D:\Coding\DOTNET\sistemparkir\obj\Debug\net5.0\SistemParkir.csproj.AssemblyReference.cache
+D:\Coding\DOTNET\sistemparkir\obj\Debug\net5.0\SistemParkir.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\DOTNET\sistemparkir\obj\Debug\net5.0\SistemParkir.AssemblyInfoInputs.cache
+D:\Coding\DOTNET\sistemparkir\obj\Debug\net5.0\SistemParkir.AssemblyInfo.cs
+D:\Coding\DOTNET\sistemparkir\obj\Debug\net5.0\SistemParkir.csproj.CoreCompileInputs.cache
+D:\Coding\DOTNET\sistemparkir\bin\Debug\net5.0\SistemParkir.exe
+D:\Coding\DOTNET\sistemparkir\bin\Debug\net5.0\SistemParkir.deps.json
+D:\Coding\DOTNET\sistemparkir\bin\Debug\net5.0\SistemParkir.runtimeconfig.json
+D:\Coding\DOTNET\sistemparkir\bin\Debug\net5.0\SistemParkir.runtimeconfig.dev.json
+D:\Coding\DOTNET\sistemparkir\bin\Debug\net5.0\SistemParkir.dll
+D:\Coding\DOTNET\sistemparkir\bin\Debug\net5.0\ref\SistemParkir.dll
+D:\Coding\DOTNET\sistemparkir\bin\Debug\net5.0\SistemParkir.pdb
+D:\Coding\DOTNET\sistemparkir\obj\Debug\net5.0\SistemParkir.dll
+D:\Coding\DOTNET\sistemparkir\obj\Debug\net5.0\ref\SistemParkir.dll
+D:\Coding\DOTNET\sistemparkir\obj\Debug\net5.0\SistemParkir.pdb
+D:\Coding\DOTNET\sistemparkir\obj\Debug\net5.0\SistemParkir.genruntimeconfig.cache
